@@ -7,3 +7,5 @@ date: 2022-09
 venue: 'Journal of Computational and Applied Mathematics'
 ---
 Analysis of eigenvalue methods for multivariate numerical rootfinding.
+
+https://doi.org/10.1016/j.cam.2022.114235
