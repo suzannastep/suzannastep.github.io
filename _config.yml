@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Suzanna Parkinson"
-  avatar           : "profile.png"
+  avatar           : "sue.png"
   bio              : "Computational and Applied Math PhD Student"
   location         : "University of Chicago"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=spRkSy4AAAAJ&hl=en&inst=5778974199078678248&oi=ao"
-  email            :
+  email            : "sueparkinson@uchicago.edu"
   uri              :
   bitbucket        :
   codepen          :
