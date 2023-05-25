@@ -14,7 +14,9 @@ I am a PhD student in the [Committee on Computational and Applied Mathematics](h
 
 Research interests
 ======
-Deep learning, optimization, numerical analysis, and more generally analysis of algorithms. My projects have included:
+Deep learning, optimization, numerical analysis, and more generally analysis of algorithms for data science. 
+
+My projects have included:
 - Representation costs of deep neural networks
 - Detecting branching structure in data
 - Eigenvalue methods for multivariate numerical rootfinding
