@@ -1,13 +1,14 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Finding Low-Rank Functions Using Linear
+Layers in Neural Networks"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+permalink: /talks/CAMseminar2023.md
+venue: "University of Chicago Student Seminar"
+date: 2023-02-14
+location: "Chicago, Illinois, USA"
 ---
 
-[More information here](http://example2.com)
+[Slides](../files/)
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Abstract: A fundamental question in the theory of neural networks is the role of depth. Empirically it is widely known that deeper networks tend to perform better than shallow ones. However, the reasoning behind this phenomenon is not well understood. In this talk I will discuss the role of depth in the simplified case where most of the layers have a linear activation. Specifically, the regularization associated with training a neural network with many linear layers followed by a single ReLu layer using weight decay is equivalent to a function-space penalty that encourages the network to select a low-rank function, i.e. one with small active subspace.
