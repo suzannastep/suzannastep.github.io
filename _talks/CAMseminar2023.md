@@ -4,7 +4,7 @@ Layers in Neural Networks"
 collection: talks
 type: "Talk"
 permalink: /talks/CAMseminar2023.md
-venue: "University of Chicago Student Seminar"
+venue: "University of Chicago Computational and Applied Mathematics Student Seminar"
 date: 2023-02-14
 location: "Chicago, Illinois, USA"
 ---
