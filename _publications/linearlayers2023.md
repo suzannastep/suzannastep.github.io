@@ -10,4 +10,6 @@ Connects the representation cost of a function associated with the architecture 
 
 Joint work with Greg Ongie and Becca Willett.
 
+[Poster](../files/LinearLayersPoster.pdf)
+
 <!-- Access paper here: TODO -->
