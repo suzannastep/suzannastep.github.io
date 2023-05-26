@@ -11,5 +11,3 @@ Connects the representation cost of a function associated with the architecture 
 Joint work with Greg Ongie and Becca Willett.
 
 [https://arxiv.org/abs/2305.15598](https://arxiv.org/abs/2305.15598)
-
-[Poster](../files/LinearLayersPoster.pdf)
