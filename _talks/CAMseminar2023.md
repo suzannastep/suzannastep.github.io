@@ -2,7 +2,7 @@
 title: "Finding Low-Rank Functions Using Linear Layers in Neural Networks"
 collection: talks
 type: "Talk"
-permalink: /talks/CAMseminar2023.md
+permalink: /talks/CAMseminar2023
 venue: "University of Chicago Computational and Applied Mathematics Student Seminar"
 date: 2023-02-14
 location: "Chicago, Illinois"
