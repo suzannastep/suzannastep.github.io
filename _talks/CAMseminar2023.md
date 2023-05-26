@@ -1,6 +1,5 @@
 ---
-title: "Finding Low-Rank Functions Using Linear
-Layers in Neural Networks"
+title: "Finding Low-Rank Functions Using Linear Layers in Neural Networks"
 collection: talks
 type: "Talk"
 permalink: /talks/CAMseminar2023.md
