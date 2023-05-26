@@ -8,4 +8,6 @@ venue: 'arXiv'
 ---
 Connects the representation cost of a function associated with the architecture of a deep neural network with 1 ReLU layer to the dimension of the active subspace of the function.
 
+Joint work with Greg Ongie and Becca Willett.
+
 <!-- Access paper here: TODO -->
