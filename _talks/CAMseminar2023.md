@@ -6,7 +6,7 @@ type: "Talk"
 permalink: /talks/CAMseminar2023.md
 venue: "University of Chicago Computational and Applied Mathematics Student Seminar"
 date: 2023-02-14
-location: "Chicago, Illinois, USA"
+location: "Chicago, Illinois"
 ---
 
 [Slides](../files/CAM_Seminar_Linear_Layers_Talk.pdf)
