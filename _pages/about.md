@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Committee on Computational and Applied Mathematics](https://cam.uchicago.edu) at the University of Chicago. 
+I am a PhD candidate in the [Committee on Computational and Applied Mathematics](https://cam.uchicago.edu) at the University of Chicago. 
 
 Perhaps better known as Sue.
 
