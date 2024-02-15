@@ -1,7 +1,7 @@
 ---
 title: "Depth Separation in Norm-Bounded Infinite-Width Neural Networks"
 collection: publications
-permalink: /publication/depthsep2024.md
+permalink: /publication/depthsep2024
 excerpt: 'Uses depth separation in the representation cost to approximate a function in order to get depth separation in terms of learning/genearlization/sample complexity.'
 date: 2024-02-13
 venue: 'arXiv'
