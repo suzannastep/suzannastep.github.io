@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Suzanna Parkinson"
 title_separator          : "-"
 name                     : &name "Suzanna Parkinson"
-description              : &description "Computational and Applied Math PhD Student at the University of Chicago"
+description              : &description "Computational and Applied Math PhD Candidate at the University of Chicago"
 url                      : https://suzannastep.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "suzannastep/suzannastep.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Suzanna Parkinson"
   avatar           : "sue.png"
-  bio              : "Computational and Applied Math PhD Student"
+  bio              : "Computational and Applied Math PhD Candidate"
   location         : "University of Chicago"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=spRkSy4AAAAJ&hl=en&inst=5778974199078678248&oi=ao"
