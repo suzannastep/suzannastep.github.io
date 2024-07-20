@@ -10,8 +10,6 @@ redirect_from:
 
 I am a PhD candidate in the [Committee on Computational and Applied Mathematics](https://cam.uchicago.edu) at the University of Chicago. 
 
-Better known as Sue.
-
 ## Research interests
 
 Deep learning, neural networks, numerical analysis, and more generally analysis of algorithms for data science. 
