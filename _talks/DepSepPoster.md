@@ -1,5 +1,5 @@
 ---
-title: "Linear Layers Promote Learning Single-/Multiple-Index Models"
+title: "Depth Separation in Learning via Representation Costs"
 collection: talks
 type: "Poster"
 permalink: /talks/DepSepPoster
