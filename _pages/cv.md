@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * B.S. in Mathematics, Brigham Young University, 2020
-* Ph.D in Computational and Applied Mathematics, University of Chicago, 2025 (expected)
+* Ph.D in Computational and Applied Mathematics, University of Chicago, 2025 (expected) -->
   
 <!-- Skills
 ======
@@ -23,17 +23,17 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Presentations
+<!-- Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Teaching
 ======
@@ -41,7 +41,7 @@ Presentations
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
 * Chair of scientific content committee for the University of Chicago Computational Biology Outreach (UCCOMBO) group. 
-  * Led and developed materials for workshops with K-12 students
+  * Led and developed materials for workshops with K-12 students -->
