@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[{% include base_path %}](../files/CV2025Sept.pdf)
+{% include base_path %}
 
-<!-- [cv](../files/CV2025Sept.pdf) -->
+[cv](../files/CV2025Sept.pdf)
