@@ -12,6 +12,8 @@ I am a PhD candidate in the [Committee on Computational and Applied Mathematics]
 
 **I am currently on the job market looking for a postdoc.**
 
+[cv](../files/CV2025Sept.pdf)
+
 ## Research interests
 
 Deep learning, neural networks, optimization, and more generally analysis of algorithms for data science. 
