@@ -1,7 +1,7 @@
 ---
 title: "Depth Separation in Norm-Bounded Infinite-Width Neural Networks"
 collection: publications
-permalink: /publication/depthsep2024
+permalink: /publication/depthsep
 excerpt: 'Establishes a separation in the representation cost and sample complexity needed to approximate functions with two vs. three layer neural networks.'
 date: 2024-07-02
 venue: '37th Annual Conference on Learning Theory (COLT)'
