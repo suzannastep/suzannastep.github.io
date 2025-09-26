@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in the [Committee on Computational and Applied Mathematics](https://cam.uchicago.edu) at the University of Chicago graduating in June 2026. 
 
-**I am currently on the job market looking for a postdoc.**
+**I am currently on the job market.**
 
 ## [cv](../files/CV2025Sept.pdf)
 
