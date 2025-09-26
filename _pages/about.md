@@ -19,7 +19,7 @@ I am a PhD candidate in the [Committee on Computational and Applied Mathematics]
 Deep learning, neural networks, optimization, and more generally analysis of algorithms for data science. 
 
 My projects have included:
-- Analyzing neural networks adapt to structure in data when trained gradient descent
+- Analyzing how neural networks adapt to structure in data when trained with gradient descent
 - Depth separation of neural networks in terms of learning capabilities
 - Representation costs of deep neural networks
 - Effect of linear layers in neural networks
