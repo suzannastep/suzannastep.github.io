@@ -12,7 +12,7 @@ I am a PhD candidate in the [Committee on Computational and Applied Mathematics]
 
 **I am currently on the job market.**
 
-## [cv](../files/CV2025Sept.pdf)
+## [cv](../files/Parkinson_Suzanna_CV.pdf)
 
 ## Research interests
 
