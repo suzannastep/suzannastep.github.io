@@ -8,3 +8,5 @@ in Data Science and Machine Learning"
 date: 2024-09-18
 location: "Oaxaca, Mexico"
 ---
+
+[Slides](../files/OaxacaSept2024.pdf)
